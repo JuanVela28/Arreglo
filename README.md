@@ -1,5 +1,4 @@
-# Ejercicio - Crea un programa en python que maneje arreglos que me permitan guardar
-# las calificaciones de 10 alumnos, de 10 materias.
+# Ejercicio - Crea un programa en python que maneje arreglos que me permitan guardar las calificaciones de 10 alumnos, de 10 materias.
 
 import numpy as np
 
